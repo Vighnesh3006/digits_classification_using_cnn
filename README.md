@@ -12,7 +12,6 @@ Before running the code, ensure you have the following libraries installed:
 
 -   Python 3.x
 -   TensorFlow
--   Matplotlib
 -   Seaborn
 -   NumPy
 -   Pandas
