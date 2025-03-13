@@ -61,4 +61,9 @@ The model architecture.
 ![Screenshot 2025-03-13 150911](https://github.com/user-attachments/assets/eb4bfdf3-5884-45cd-ac08-ea81debb2ca9)
 ![Screenshot 2025-03-13 143441](https://github.com/user-attachments/assets/76e51e0f-1868-4993-b9c2-018500b871e6)
 
+## contacts
+vighneshghorpade007@gmail.com
+Vighnesh3006
+
+
 
